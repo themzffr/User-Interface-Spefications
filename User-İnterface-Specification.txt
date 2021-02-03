@@ -1,0 +1,38 @@
+Dashboard
+
+ 1 topbar and 2 coloumns are inside the screen.
+  . New User Form
+  . Users List Table
+ Topbar have 2 buttons and 1 checkbox.
+  . New User Button
+  . Save User Button
+  . Hiding Checkbox for Disabled Users
+ Each Column's height and width will be the same.
+
+
+New User Form Column
+
+ 7 rows filling the height and width.
+ 1 Title Row
+ 4 Text Area and Their Labels Rows
+  . Each text area row 
+    UserName / Display Name / Phone / Email
+ 1 Dropdown menu Row
+  Users will choose their rolls
+   Guest / Admin /SuperAdmin
+ 1 Checkbox Row
+  This checkbox will control enabled or disabled
+
+Users List Table Column
+
+ Users will listing in here.
+ 4 columns filling the height and width.
+  ID / User Name / Email / Enabled
+   ID Column will define user spesificly
+   User Name, Email and Enabled will show user's informations which users input in New User Column.
+
+
+
+
+
+
